@@ -245,7 +245,7 @@
                         <a href="http://bootstrapthemes.co/" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">Download Catalog</a>
                     </div>
                 </div>
-                <!-- End of Slide -->
+                    <!-- End of Slide -->
 
                 <!-- Third Slide -->
                 <div class="item">
@@ -299,6 +299,31 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact Angkasa Catering</h2>
+
+                <style>
+                    .google-maps {
+                        position: relative;
+                        padding-bottom: 75%; // This is the aspect ratio
+                        height: 0;
+                        overflow: hidden;
+                    }
+                    .google-maps iframe {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100% !important;
+                        height: 100% !important;
+                    }
+                </style>
+
+                <div class="google-maps">    
+                    <iframe
+                        width="600"
+                        height="450"
+                        frameborder="0" style="border:0"
+                        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBe5uXSNHsycjz7jSVjV7u33FSrejtsO3s&q=Angkasa+Catering" allowfullscreen>
+                    </iframe>
+                </div>   
                 <p>Feel free to email us</p>
                 <p><a href="mailto:feedback@startbootstrap.com">lorem@ipsum.com</a>
                 </p>
@@ -337,8 +362,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
     <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&amp;sensor=false"></script>
-
+                    
     <!-- Theme JavaScript -->
     <script src="js/grayscale.js"></script>
 
