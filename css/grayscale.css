@@ -761,3 +761,13 @@ body {
   overflow-y: scroll;
 }
 
+/* Disable Scrolling Maps */
+
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:750px;
+   height:420px; /* your iframe height */
+   top:420px;  /* your iframe height */
+   margin-top:-420px;  /* your iframe height */
+}
