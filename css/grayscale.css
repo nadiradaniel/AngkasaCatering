@@ -728,6 +728,19 @@ section {
     text-align: center;
     border: none;
 }
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+
+#fade-quote-carousel blockquote .testi{
+   text-align:justify
+}
+
+#fade-quote-carousel blockquote .person{
+   text-align:right 
+}
+
 #fade-quote-carousel .profile-circle {
     width: 150px;
     height: 150px;
