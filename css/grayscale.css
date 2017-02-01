@@ -221,8 +221,13 @@ a:focus {
     transform: scale(1);
   }
 }
+
 .content-section {
   padding-top: 100px;
+}
+
+.profile-section {
+  padding-top: 80px;
 }
 
 .package-section {
