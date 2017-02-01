@@ -141,6 +141,10 @@ a:focus {
 .intro .intro-body .intro-text {
   font-size: 18px;
 }
+#about video{
+  width: 100%    !important;
+  height: auto   !important;
+}
 @media (min-width: 768px) {
   .intro {
     height: 100%;
@@ -772,6 +776,7 @@ body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
   overflow-x: hidden; 
   overflow-y: scroll;
+
 }
 
 /* Disable Scrolling Maps */
