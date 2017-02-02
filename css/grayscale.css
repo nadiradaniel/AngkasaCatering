@@ -224,10 +224,12 @@ a:focus {
 
 .content-section {
   padding-top: 100px;
+  padding-bottom: 110px;
 }
 
 .profile-section {
-  padding-top: 80px;
+  padding-top: 150px;
+  padding-bottom: 110px;
 }
 
 .package-section {
@@ -235,11 +237,15 @@ a:focus {
 }
 
 .gallery-section {
-  padding-top: 70px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .testimony-section {
-  padding-top: 50px;
+  padding-top: 20px;
+  position: relative;
+  height: auto;
+  min-height: 100% !important;  
 }
 
 .maps-section {
@@ -247,7 +253,7 @@ a:focus {
 }
 
 .contact-section {
-  padding-top: 60px;
+  padding-top: 180px;
 }
 
 .download-section {
@@ -260,6 +266,18 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.download-section-testi {
+  width: 100%;
+  padding: 50px 0px 20px 0px;
+  color: black;
+  background-color: #ff7f50;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 #map {
   width: 100%;
   height: 200px;
@@ -270,7 +288,10 @@ a:focus {
     padding-top: 250px;
   }
   .download-section {
-    padding: 60px 0;
+    padding: 60px 0px 100px 0px;
+  }
+  .download-section-testi {
+    padding: 50px 0 20px 0px;
   }
   #map {
     height: 400px;
@@ -702,7 +723,7 @@ img::-moz-selection {
 
 section {
     padding-top: 0px;
-    padding-bottom: 100px;
+   
 }
 
 .quote {
