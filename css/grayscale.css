@@ -252,6 +252,10 @@ a:focus {
   padding-top: 60px;
 }
 
+#maps a{
+    font-size: 20px;
+}
+
 .contact-section {
   padding-top: 180px;
 }
