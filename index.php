@@ -404,6 +404,13 @@
                 <h2>Contact Us </h2>
             </div>
         </div>
+        <div class="text-center">
+            <h4> Komp.TNI-AU Kebantenan Indah, Jl.Hercules Blok A3/3 Jatiasih.Bekasi 17423, Indonesia. </h4>
+            Telp  : (021)82436395, (021)8215624 
+            HP: 0818782382 
+            Fax: (021)82429330
+            E-mail  : angkasa.catering@gmail.com / eddys.pang@gmail.com         
+        </div>
         <!--
         <div class="row"'>
             <div class="google-maps col-md-6">
