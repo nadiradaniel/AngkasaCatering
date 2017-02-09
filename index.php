@@ -1,6 +1,3 @@
-<!-- NGETEST AJA -->
-
-
 <!DOCTYPE html>
 <html lang="id">
 
