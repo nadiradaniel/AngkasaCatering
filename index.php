@@ -24,7 +24,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
     <!-- Theme CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/grayscale.min.css" rel="stylesheet">
  
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
