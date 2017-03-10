@@ -160,7 +160,7 @@
                             <!-- Slide Text Layer -->
                             <div class="slide-text slide_style_left">
                                 <h1 data-animation="animated zoomInRight">Wedding Packages</h1>
-                                <a href="http://bit.ly/angkasawedding" target="_blank"  class="btn btn-primary" data-animation="animated fadeInRight">Download Catalog</a>
+                                <a href="http://bit.ly/AngkasaWedding" target="_blank"  class="btn btn-primary" data-animation="animated fadeInRight">Download Catalog</a>
                             </div>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_center">
                         <h1 data-animation="animated flipInX">Catering Packages</h1>
-                        <a href="http://bit.ly/angkasacatering" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">Download Catalog</a>
+                        <a href="http://bit.ly/AngkasaKaryawan" target="_blank"  class="btn btn-primary" data-animation="animated fadeInDown">Download Catalog</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
@@ -190,7 +190,7 @@
                     <!-- Slide Text Layer -->
                     <div class="slide-text slide_style_right">
                         <h1 data-animation="animated zoomInLeft">Others</h1>
-                        <a href="http://bit.ly/angkasaothers" target="_blank" class="btn btn-primary" data-animation="animated fadeInRight">Download Catalog</a>
+                        <a href="http://bit.ly/AngkasaOthers" target="_blank" class="btn btn-primary" data-animation="animated fadeInRight">Download Catalog</a>
                     </div>
                 </div>
                 <!-- End of Slide -->
