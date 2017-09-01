@@ -15,7 +15,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="all">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" media="all">
-     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
 
     <!-- Custom Fonts -->
@@ -27,18 +27,10 @@
     <link href="css/grayscale.min.css" rel="stylesheet">
  
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- Navigation -->
     <nav class="navbar navbar-custom navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
@@ -50,19 +42,14 @@
                 </a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <ul class="nav navbar-nav">
-                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#about">About Us</a>
                     </li>
-                  <!--  <li>
-                        <a class="page-scroll" href="#profile">Profiles</a>
-                    </li> -->
                     <li>
                         <a class="page-scroll" href="#package">Packages</a>
                     </li>
@@ -75,19 +62,11 @@
                     <li>
                         <a class="page-scroll" href="#maps">Contact</a>
                     </li>
-                    <!--
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                    -->
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>
 
-    <!-- Intro Header -->
     <header class="intro">
         <div class="intro-body">
             <div class="container">
@@ -116,17 +95,6 @@
             </div>
         </div>
     </section>
-
-    <!-- <section id="profile" class="container profile-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-            <h2>Who Are We</h2>
-            <video controls>
-                <source src="img/vidprof.mp4" type="video/mp4">
-            </video>
-            </div>
-        </div>
-    </section> -->
 
     <!-- Package Section -->
     <section id="package" class="package-section text-center">
@@ -411,52 +379,7 @@
             Fax: (021)82429330
             E-mail  : angkasa.catering@gmail.com / eddys.pang@gmail.com         
         </div>
-        <!--
-        <div class="row"'>
-            <div class="google-maps col-md-6">
-                <div class="overlay" onClick="style.pointerEvents='none'"></div>
-                <iframe
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBe5uXSNHsycjz7jSVjV7u33FSrejtsO3s&q=Angkasa+Catering" allowfullscreen>
-                </iframe>
-            </div>  
-            <div class="col-md-6 text-left">                         
-                <div class="row">
-                    <div class="col-md-6">
-                             <img src="img/mail2.png"></img> <a href="mailto:angkasa.catering@gmail.com">angkasa.catering </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                             <img src="img/fb3.png"></img> <a href="https://www.facebook.com/Angkasa.Catering/">Angkasa Catering</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        -->
     </section>        
-
-    
-    <!-- Contact Section -->
-    <!--
-    <section id="contact" class="container contact-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Angkasa Catering</h2>
-
-                
-				<ul class="list-inline banner-social-buttons">
-					<li>
-						<a href="mailto:angkasa.catering@gmail.com"><img src="img/mail2.png"></img></a>
-					</li>
-                    <li>
-                        <a href="https://www.facebook.com/Angkasa.Catering/"><img src="img/fb4.png"></img></a>
-                    </li>   
-                </ul>
-            </div>
-        </div>
-    </section>
-    -->
-
 
     <!-- Footer -->
     <footer>
